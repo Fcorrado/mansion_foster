@@ -37,6 +37,7 @@ void devolver_amigo();
 
 void traer_los_amigos();
 
+int crear_archivo_binario(amigo_t lista_de_amigos[MAX_AMIGOS], int tope_amigos);
 
 #endif /*__MANSION_FOSTER_H__*/
 

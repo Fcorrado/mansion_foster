@@ -9,6 +9,7 @@ int main(int argc, char *argv[]) {
     if (argv[1]) {
         if (strcmp(argv[1], "elegir_amigo") == 0) {
             if (argv[2]) {
+                printf("Vamos a elegir amigo para %s \n", argv[2]);
                 elegir_amigo(argv[2]);
             } else {
                 printf("No se encuentra el archivo necesario para realizar la operacion");

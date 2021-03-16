@@ -1,9 +1,11 @@
-ROJO;<150;DEPORTISTA;PEREZOSO
+verde;=158;todasmuamuamuamua;perezoso
 flor
 maurito
 camit
 saku
 carlitos
-florcita5
 angel
 miau
+florcita0
+florcita1
+florcita2
